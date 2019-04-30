@@ -159,7 +159,7 @@ function refresh
 end
 function over
     annotation('textbox',[.4,.4,.2,.25],'backgroundcolor','white',...
-'fontsize',20,'string',"Game over Press Space to ccontinue!");
+'fontsize',20,'string',"Game over Thank you for playing!");
 end   
 function reset
         coin_amount = 0;
